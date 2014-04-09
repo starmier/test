@@ -1,4 +1,5 @@
 -(void)main
 {
-	nslog("@bibin");
+	nslog("@bibin");
+        nslog(@"nimei")
 }
